@@ -1,0 +1,18 @@
+{
+  "name": "employee-admin",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Abdullah Harput",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "@web/dev-server": "^0.2.3",
+    "ing-lib": "^0.7.2",
+    "ing-web": "^2.9.0",
+    "wb-web-utils": "^1.3.0"
+  }
+}
